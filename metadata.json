@@ -1,0 +1,6 @@
+{
+  "name": "Glam Set Go - Salon & Makeover Studio",
+  "description": "Production-ready salon website and management platform for Glam Set Go in Naroda, Ahmedabad, Gujarat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
